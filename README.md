@@ -12,5 +12,4 @@ The objectives of this project include:
 - **Exploratory Data Analysis (EDA)**: Visualize data distributions and correlations to identify key factors influencing obesity categories.
 - **Model Development**: Develop a multi-class classification model using a deep learning neural network, optimized for accuracy and interpretability.
 - **Evaluation and Validation**: Assess model performance using appropriate evaluation metrics such as **accuracy**, **classification reports**, and **confusion matrices**.
-- **Submission to Kaggle**: Generate predictions for the test dataset and prepare a well-formatted `submission.csv` file for competition evaluation.
 - **Insights and Impact**: Provide actionable insights derived from the model’s predictions, supporting data-driven decision-making in healthcare.
